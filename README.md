@@ -33,7 +33,7 @@ Start the development server : npm start
 Build the development file : npm run build
 
 
-Hosted Website Link : https://chatappreactproject.netlify.app/#/
+Hosted Website Link : https://z3rogoku.github.io/chatappReact/#/
 
 Technologies Used :-
 React
@@ -46,17 +46,19 @@ CSS (for styling)
 
 
 
-![Screenshot (3465)](https://github.com/ABHINEET4/ChatApp-React-Coding-Ninjas/assets/108821830/bf73ff92-5312-4526-b6ee-4079a10a1437)
+![image](https://github.com/Z3rOGoku/chatappReact/assets/106601578/dbf74365-df18-4b4e-8339-cde4d3acedb1)
 
 
 
 
-![Screenshot (3466)](https://github.com/ABHINEET4/ChatApp-React-Coding-Ninjas/assets/108821830/42ad3baf-6a2a-43ab-9908-5595464e65ba)
+
+![image](https://github.com/Z3rOGoku/chatappReact/assets/106601578/cf39cd62-8a30-4f45-ae99-87fd93e5cf56)
 
 
 
 
-![Screenshot (3467)](https://github.com/ABHINEET4/ChatApp-React-Coding-Ninjas/assets/108821830/5b24a944-772d-4498-8621-36d70f5030d5)
+
+
 
 
 
